@@ -1,2 +1,2 @@
- React Utility Application
+ React Todo Application
 --------------------------
